@@ -1,0 +1,6 @@
+-----------------------------------------------
+ School Math and Reading Trends by School Type
+-----------------------------------------------
+Charter Schools scored higher than the District School Types in both Math and Reading Test Scores.
+The budget per student did not vary much by school type, however the school size seemed to impact the test scores.
+The larger the school size in total number of students,the lower the overall test scores in both math and reading.
